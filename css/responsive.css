@@ -184,6 +184,9 @@
         padding: 10px 16px !important;
         margin-left: 0;
     }
+    #banner_part .text h1{
+        font-size: 40px;
+    }
 
     #banner_part .icon {
         top: 30%;
